@@ -1,0 +1,125 @@
+{
+  "Header": {
+    "title": "Welcome to Lavie Nail Bar - Frisco",
+    "paragraph": "You're one step closer to arriving at one of the most luxurious places in Frisco, TX, where we strive to meet the services you need. Appointment are recommended and we look forward to seeing you!"
+  },
+  "About": {
+    "paragraph": "Conveniently located off State Hwy 121, we always make our best efforts to bring the best comfort and convenience to our clients. With luxurious decorations and harmoni designs in a cozy atmosphere, our clients can immerse themselves in our relaxing treatments to escape from everyday stress and busy lifestyle. Our staff are here to ensure that our clients always have a positive and high quality experience.",
+    "Why": [
+      "Up to date with latest nail trends",
+      "Variety of complimentary wine, margaritas and soft drinks",
+      "Disposable nail files, pumice stones and spa liners"
+    ],
+    "Why2": [
+      "Fully trained and licensed staff",
+      "Host your next bridal, bachelorette, birthday or any special event",
+      "Gift card specials"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Midnight Haze",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/chel9.jpg"
+    },
+    {
+      "title": "Sassy Sweetness",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/chel3.jpg"
+    },
+    {
+      "title": "BabyBlue Bliss",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/chel2.jpg"
+    },
+    {
+      "title": "Sea Queen",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/chel4.jpg"
+    },
+    {
+      "title": "Queen of Lavie",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/chel1.jpg"
+    },
+    {
+      "title": "Vicious",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/chel6.jpg"
+    },
+    {
+      "title": "Lucent Grays",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/chel8.jpg"
+    },
+    {
+      "title": "Bewitched",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/chel7.jpg"
+    },
+    {
+      "title": "Ice Queen",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/chel5.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-heart",
+      "name": "Pedicures",
+      "text": "The LaVie (Volcano Spa) . . . . . . . . . . . . . . . . $85 Collage Spa Pedicure  . . . . . . . . . . . . . . . . . . . $68 THE BATH BOMB  . . . . . . . . . . . . . . . . . . . . . . .$52 The Heavenly . . . . . . . . . . . . . . . . . . . . . . . . . . $42 The Classic . . . . . . . . . . . . . . . . . . . . . . . . . . . . $32"
+    },
+    {
+      "icon": "fa fa-leaf",
+      "name": "Manicures",
+      "text": "Collegen Spa Manicure . . .  . . . . . . . . . . . . . . .$45 The LaVie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .$35 THE Heavenly . . . . . . . . . . . . . . . . . . . . . . . . . . $25 The Classic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $20"
+    },
+    {
+      "icon": "fa fa-diamond",
+      "name": "Waxing",
+      "text": "Eyebrows: . . . . . . . . . . . . . . . . . . . . . . . . $10 Eyebrows Tint. . . . .  . . . . . . . . . . . . . . . . . . . . . $20 Lip & Chin . . . . . . .  . . . . . . . . . . . . . . . . . $8 each Sideburns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $10 Full Face. . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . $35 Under Arms . . .. . . . . . . . . . . . . . . . . . . . . . . . . $25+ Full Arms / Half Arms . . . . . . . . . . . . $40+ / $30+ Full Leg / Half Leg . . . . . . . . . . . . . . $35+ / $55+ Bikini / Brazilian . . . . . . . . . . . . . . . . . $35+ / $65+ Full Back / Half Back . . . . . . . . . . . . .$45+ / $35+ Stomach / Chest. . . . . . . . . . . . . . . . . $20+ / $30+"
+    },
+    {
+      "icon": "fa fa-star",
+      "name": "Nail Enhancements",
+      "text": "Solar P&W / Refill: . . . . . . . . . . . . . . $42 / $37 Color Tip Set / Refill . . . . . . . . . . . . . .  $47/$40 Regular Set . . . . . . . . . . . . . . . . . . . . . . . . . . $35 French/American Set . . . . . . . . . . . . . . . . . $32 Regular/Pink Fill . . . . . . . . . . . . . . . . . . . . . $22"
+    },
+    {
+      "icon": "fa fa-trophy",
+      "name": "Sculpting",
+      "text": "Microblading: . . . . . . . . . . . . . . . . . . . . $350  Shading Shadow Tint (3-6 mo). . . . . . . $100 Shading Shadow Tint (12-18 mo) . . . . $200 Touch Up . . . . . . . . . . . . . . . . . . . . . . .$150+ Remove . . . . . . . . . . . . . . . . . . . . . .  $50"
+    },
+    {
+      "icon": "fa fa-magic",
+      "name": "Facial Treatments",
+      "text": "Express (30 min): . . . . . . . . . . . . . . . . . . . . . . . $35 Teen Dream (50 min) . . . . . . . . . . . . . . . . . . . $55 Gentlemen's (60 min). . . . . . . . . . . . . . . . . . . .  $65 Lavie's Signature (60 mins) . . . . . . . . . . . . . . $70 The Organic Ice & Fire (90 min) . . . . . . . . . $100"
+    }
+  ],
+  "Contact": {
+    "address": "5353 Independence Parkway suite 200 Frisco, TX 75035",
+    "phone": "(469) 640-1326",
+    "email": "Minhngo4143@gmail.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-check",
+      "title": "Like us on Facebook!",
+      "text": "Link here"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Announcements",
+      "text": "We are closed Thanksgiving from 11/25 and will reopen 2099"
+    },
+    {
+      "icon": "fa fa-arrow-up",
+      "title": "Updates",
+      "text": "New product drop! "
+    },
+    {
+      "icon": "fa fa-heart",
+      "title": "Spread the Loooveee",
+      "text": "Feedback on your recent experience"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+@media screen and (max-width: 400px) {
+  #features, #hero {
+    padding: 20px;
+    width: 111%; 
+  }
+
+}
