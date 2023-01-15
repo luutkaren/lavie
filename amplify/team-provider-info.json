@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-laviewebsite-dev-192055-authRole",
+      "UnauthRoleArn": "arn:aws:iam::850458869673:role/amplify-laviewebsite-dev-192055-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::850458869673:role/amplify-laviewebsite-dev-192055-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-laviewebsite-dev-192055-deployment",
+      "UnauthRoleName": "amplify-laviewebsite-dev-192055-unauthRole",
+      "StackName": "amplify-laviewebsite-dev-192055",
+      "StackId": "arn:aws:cloudformation:us-east-1:850458869673:stack/amplify-laviewebsite-dev-192055/607982a0-88a9-11ed-b144-12255b3d18ff",
+      "AmplifyAppId": "d3hx4qui5lhs2y"
+    }
+  }
+}
